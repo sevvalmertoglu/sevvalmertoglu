@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **IOS-Swift SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sevvalmertoglu](https://github.com/sevvalmertoglu)
-
 - 📝 I regularly write articles on [https://medium.com/@sevvalmertoglu8](https://medium.com/@sevvalmertoglu8)
 
 - 📫 How to reach me **sevvalmertoglu131@gmail.com**
