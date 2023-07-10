@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Şevval Mertoğlu.</h1>
-<h3 align="center">I am a Computer Engineering student. A passionate frontend developer from Turkey. I have always beleved and focused on research and development, as I understand that this is the key to the future.</h3>
+<h3 align="center">I am a Computer Engineering student. A passionate IOS developer from Turkey. I have always beleved and focused on research and development, as I understand that this is the key to the future.</h3>
 
 - 🌱 I’m currently learning **IOS-Swift SwiftUI**
 
