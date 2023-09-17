@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 , I'm Şevval Mertoğlu.</h1>
-<h3 align="center">I am a Computer Engineering student. A passionate IOS developer from Turkey. I have always beleved and focused on research and development, as I understand that this is the key to the future.</h3>
+<h1 align="center">Hi 👋 </h1>
+<h3 align="center">I'm Şevval Mertoğlu, a 4th year Computer Engineering student at Dumlupınar University, Kütahya. I have always believed and focused on research and development, as I understand that this is the key to the future. Swift has caught my interest. I am currently developing applications in IOS-Swift language. I have completed projects in this area and uploaded them to Github. I am open to job offers to improve myself.</h3>
 
 - 🌱 I’m currently learning **IOS-Swift SwiftUI**
 
